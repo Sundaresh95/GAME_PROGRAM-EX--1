@@ -1,6 +1,5 @@
 # GAME_PROGRAM-EX--1
 # EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
-
 ## Aim
 To implement and demonstrate various material effects in Unreal Engine, including emissive, roughness, and metallic properties, using the Material Editor.
 
@@ -31,16 +30,12 @@ To implement and demonstrate various material effects in Unreal Engine, includin
 6. **Save and Apply Material:**
    - Save the material.
    - Apply it to any mesh in the scene (like a sphere or cube) to preview the results.
-  
-     
+   
 ## Output
 
 <img width="1536" height="1024" alt="ChatGPT Image Nov 13, 2025, 01_34_14 PM" src="https://github.com/user-attachments/assets/c4756af5-a1c2-40a8-a90e-7937f2936df4" />
 
-
 ![image](https://github.com/user-attachments/assets/3aaea163-8335-42c9-af3c-46adac71cb00)
-
-
 
 ## Result
 Successfully implemented a material in Unreal Engine showcasing:
